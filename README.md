@@ -79,5 +79,3 @@ Bienvenue sur mon profil GitHub. Cette page reflète mon site personnel.
 1) Edite ce README pour ajouter tes infos.
 2) Commit : `git add README.md && git commit -m "chore: update profile readme"`
 3) Push vers le repo `christwadel65-ux/christwadel65-ux` pour qu'il s'affiche sur ton profil.
-
-
