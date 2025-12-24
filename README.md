@@ -18,8 +18,11 @@ Welcome to my GitHub profile. This page reflects my personal website.
 - Tools: Git/GitHub, VS Code, Docker, Postman, Figma
 
 ## 🚀 Recent Projects
-- [Site_git](https://github.com/christwadel65-ux/Site_git) — Modern portfolio, multilingual FR/EN, integrated with GitHub API. (CSS)
+- [auto-readme-bot](https://github.com/christwadel65-ux/auto-readme-bot) — Automatic README generator with TypeScript + Node. (TypeScript)
+- [image_converter](https://github.com/christwadel65-ux/image_converter) — Desktop tool to batch convert images with format options. (C#)
+- [dxf_dwg](https://github.com/christwadel65-ux/dxf_dwg) — DXF to DWG conversion utility. (Python)
 - [Windows-Cleaner](https://github.com/christwadel65-ux/Windows-Cleaner) — C# WinForms + CLI tool to clean and optimize Windows. (C#)
+- [Site_git](https://github.com/christwadel65-ux/Site_git) — Modern portfolio, multilingual FR/EN, integrated with GitHub API. (CSS)
 - [Environement-Creator-PY-et-C-](https://github.com/christwadel65-ux/Environement-Creator-PY-et-C-) — WPF app to generate ready-to-use Python or C# environments. (C#)
 - [OMS](https://github.com/christwadel65-ux/OMS) — System maintenance tool. (Python)
 
@@ -60,7 +63,9 @@ Bienvenue sur mon profil GitHub. Cette page reflète mon site personnel.
 - Outils : Git/GitHub, VS Code, Docker, Postman, Figma
 
 ## 🚀 Projets recents
-- [Site_git](https://github.com/christwadel65-ux/Site_git) — Portfolio moderne, multilingue FR/EN, intégré à l'API GitHub. (CSS)
+- [auto-readme-bot](https://github.com/christwadel65-ux/auto-readme-bot) — Générateur automatique de README avec TypeScript + Node. (TypeScript)
+- [image_converter](https://github.com/christwadel65-ux/image_converter) — Outil desktop pour convertir des images en lot avec choix de formats. (C#)
+- [dxf_dwg](https://github.com/christwadel65-ux/dxf_dwg) — Utilitaire de conversion DXF vers DWG. (Python)
 - [Windows-Cleaner](https://github.com/christwadel65-ux/Windows-Cleaner) — Outil C# WinForms + CLI pour nettoyer et optimiser Windows. (C#)
 - [Environement-Creator-PY-et-C-](https://github.com/christwadel65-ux/Environement-Creator-PY-et-C-) — App WPF pour générer des environnements Python ou C# prêts à l'emploi. (C#)
 - [OMS](https://github.com/christwadel65-ux/OMS) — Outil de maintenance système. (Python)
