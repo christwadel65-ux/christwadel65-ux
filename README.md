@@ -3,8 +3,7 @@
 Welcome to my GitHub profile. This page reflects my personal website.
 
 ## 🌐 Website
-- URL: https://christwadel65-ux.github.io/Site_git/
-- Quick pitch: Full stack portfolio with performant web projects and Windows tools.
+
 
 ## 👤 About Me
 - What I do: Full stack developer, modern web and desktop tools.
