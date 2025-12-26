@@ -3,7 +3,7 @@
 Welcome to my GitHub profile. This page reflects my personal website.
 
 ## 🌐 Website
-🚀 **[Visitez mon Site]([https://easycoding.fr/])** 🚀
+🚀 https://easycoding.fr/ 🚀
 
 ## 👤 About Me
 - What I do: Full stack developer, modern web and desktop tools.
