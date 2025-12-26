@@ -5,6 +5,8 @@ Welcome to my GitHub profile. This page reflects my personal website.
 ## 🌐 Website
 🚀 https://easycoding.fr/ 🚀
 
+- Pitch rapide : Portfolio full stack avec projets web performants et outils Windows.
+
 ## 👤 About Me
 - What I do: Full stack developer, modern web and desktop tools.
 - For whom: Clients looking for fast, responsive and creative apps.
@@ -45,9 +47,6 @@ Welcome to my GitHub profile. This page reflects my personal website.
 
 Bienvenue sur mon profil GitHub. Cette page reflète mon site personnel.
 
-## 🌐 Site
-- URL : https://christwadel65-ux.github.io/Site_git/
-- Pitch rapide : Portfolio full stack avec projets web performants et outils Windows.
 
 ## 👤 A propos
 - Ce que je fais : Développeur full stack, web moderne et outils desktop.
