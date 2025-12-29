@@ -1,4 +1,4 @@
-# Hi, I'm christwadel65-ux
+# Hi, I'm christ
 
 Welcome to my GitHub profile. This page reflects my personal website.
 
@@ -27,8 +27,7 @@ Welcome to my GitHub profile. This page reflects my personal website.
 - [OMS](https://github.com/christwadel65-ux/OMS) — System maintenance tool. (Python)
 
 ## 📫 Contact
-- GitHub: https://github.com/christwadel65-ux
-- Portfolio (contact section): https://christwadel65-ux.github.io/Site_git/#contact
+
 - Email: (add your email if you want to be contacted directly)
 - LinkedIn: (add your link if available)
 
@@ -68,8 +67,7 @@ Bienvenue sur mon profil GitHub. Cette page reflète mon site personnel.
 - [OMS](https://github.com/christwadel65-ux/OMS) — Outil de maintenance système. (Python)
 
 ## 📫 Contact
-- GitHub : https://github.com/christwadel65-ux
-- Portfolio (section contact) : https://christwadel65-ux.github.io/Site_git/#contact
+- GitHub : https://christwadel65-ux.github.io/Site_git/#contact
 - Email : (ajoute ton email si tu veux être contacté directement)
 - LinkedIn : (ajoute ton lien si disponible)
 
