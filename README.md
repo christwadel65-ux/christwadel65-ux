@@ -29,7 +29,7 @@ Welcome to my GitHub profile. This page reflects my personal website.
 
 ## 📫 Contact
 
-- Email: (add your email if you want to be contacted directly)
+- Email: (admin@easycoding.fr)
 - LinkedIn: (add your link if available)
 
 ## ✅ Ready to Collaborate
