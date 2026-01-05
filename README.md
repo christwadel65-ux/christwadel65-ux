@@ -25,7 +25,7 @@ Welcome to my GitHub profile. This page reflects my personal website.
 - [dxf_dwg](https://github.com/christwadel65-ux/dxf_dwg) — DXF to DWG conversion utility. (Python)
 - [Windows-Cleaner](https://github.com/christwadel65-ux/windows-cleaner-public) — C# WinForms + CLI tool to clean and optimize Windows. (C#)
 - [Environement-Creator-PY-et-C-](https://github.com/christwadel65-ux/Environement-Creator-PY-et-C-) — WPF app to generate ready-to-use Python or C# environments. (C#)
-- [OMS](https://github.com/christwadel65-ux/OMS) — System maintenance tool. (Python)
+
 
 ## 📫 Contact
 
