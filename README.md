@@ -68,9 +68,8 @@ Bienvenue sur mon profil GitHub. Cette page reflète mon site personnel.
 - [OMS](https://github.com/christwadel65-ux/OMS) — Outil de maintenance système. (Python)
 
 ## 📫 Contact
-- GitHub : https://christwadel65-ux.github.io/Site_git/#contact
-- Email : (ajoute ton email si tu veux être contacté directement)
-- LinkedIn : (ajoute ton lien si disponible)
+- website : https://easycoding.fr/misc/contact
+- Email : admin@easycoding.fr 
 
 ## ✅ Prets pour collaborer
 - Disponible pour : missions freelance / collaborations, remote bienvenu
