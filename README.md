@@ -4,7 +4,7 @@ Welcome to my GitHub profile. This page reflects my personal website.
 
 ## 🌐 Website
 
-🚀 https://easycoding.fr/ 🚀
+🚀 https://xfdev.net.net/ 🚀
 
 - Pitch rapide : Portfolio full stack avec projets web performants et outils Windows.
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile. This page reflects my personal website.
 
 ## 📫 Contact
 
-- Email: (admin@easycoding.fr)
+- Email: (admin@xfdev.net)
 - LinkedIn: (add your link if available)
 
 ## ✅ Ready to Collaborate
@@ -68,7 +68,7 @@ Bienvenue sur mon profil GitHub. Cette page reflète mon site personnel.
 - [OMS](https://github.com/christwadel65-ux/OMS) — Outil de maintenance système. (Python)
 
 ## 📫 Contact
-- website : https://easycoding.fr/misc/contact
+- website : https://xfdev.net/misc/contact
 - Email : admin@easycoding.fr 
 
 ## ✅ Prets pour collaborer
