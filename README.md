@@ -4,7 +4,7 @@ Welcome to my GitHub profile. This page reflects my personal website.
 
 ## 🌐 Website
 
-🚀 https://xfdev.net.net/ 🚀
+🚀 https://xfdev.net/ 🚀
 
 - Pitch rapide : Portfolio full stack avec projets web performants et outils Windows.
 
@@ -69,7 +69,7 @@ Bienvenue sur mon profil GitHub. Cette page reflète mon site personnel.
 
 ## 📫 Contact
 - website : https://xfdev.net/misc/contact
-- Email : admin@easycoding.fr 
+- Email : admin@xfdev.net 
 
 ## ✅ Prets pour collaborer
 - Disponible pour : missions freelance / collaborations, remote bienvenu
